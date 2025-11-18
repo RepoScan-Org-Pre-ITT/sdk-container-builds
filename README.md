@@ -17,7 +17,7 @@ dotnet add package Microsoft.NET.Build.Containers
 dotnet publish --os linux --arch x64 -c Release /t:PublishContainer
 ```
 
-You can learn more about the project from the project [Documentation](./docs).
+You can learn more about the project from the project [Documentation](./docs).ss
 
 ## Prerequisites
 
