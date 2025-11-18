@@ -6,7 +6,7 @@ A basic start with tooling
 
 - for existing web project (the package is part of `Microsoft.NET.SDK.Web):
 
-```shelldtest
+```shelldtesttest
 dotnet publish --os linux --arch x64 -t:PublishContainer
 ```
 
