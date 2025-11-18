@@ -1,6 +1,6 @@
 # .NET SDK Container Building Toolsxxx
 
-This project consists of APIs and MSBuild Tasks for generating and testing an [OCI Container](https://opencontainers.org/) from a .NET project.
+This project consists of APIs and MSBuild Tasks for generating and testing an [OCI Container](https://opencontainers.org/) from a .NET project.ff
 
 A basic start with tooling 
 
