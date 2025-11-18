@@ -2,7 +2,7 @@
 
 This project consists of APIs and MSBuild Tasks for generating and testing an [OCI Container](https://opencontainers.org/) from a .NET project.ffdd
 
-A basic start with tooling 
+A basic start with tooling dd
 
 - for existing web project (the package is part of `Microsoft.NET.SDK.Web):dd
 
