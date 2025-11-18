@@ -4,7 +4,7 @@ This project consists of APIs and MSBuild Tasks for generating and testing an [O
 
 A basic start with tooling 
 
-- for existing web project (the package is part of `Microsoft.NET.SDK.Web):
+- for existing web project (the package is part of `Microsoft.NET.SDK.Web):xxxx
 
 ```shelldtesttest
 dotnet publish --os linux --arch x64 -t:PublishContainerd
